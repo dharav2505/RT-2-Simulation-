@@ -1,0 +1,7 @@
+streamlit
+pybullet
+opencv-python
+numpy
+Pillow
+sentence-transformers
+torch
